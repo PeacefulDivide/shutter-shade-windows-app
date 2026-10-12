@@ -54,4 +54,4 @@ Shutter Shade is published as a managed application via **AltTab Technologies LL
 * **[Download on the Microsoft Store](https://apps.microsoft.com/detail/9pmkz4q2lmv7?hl=en-US&gl=US)** *(Official Release)*
 
 ---
-*Developed by [AltTab Technologies LLC](https://github.com)*
+*Developed by [AltTab Technologies LLC](https://alttabtech.com)*
