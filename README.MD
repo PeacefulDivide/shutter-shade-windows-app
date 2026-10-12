@@ -8,8 +8,15 @@
   <em>The primary configuration interface (Left) and system tray integration (Right).</em>
 </p>
 
-[![Download from Microsoft Store](https://img.shields.io/badge/Microsoft-Store-blue?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9pmkz4q2lmv7?hl=en-US&gl=US)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-lightgrey?style=for-the-badge&logo=windows)](https://www.microsoft.com/)
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9pmkz4q2lmv7?hl=en-US&gl=US">
+    <img src="https://img.shields.io/badge/Microsoft-Store-blue?style=for-the-badge&logo=microsoft" alt="Download from Microsoft Store"/>
+  </a>
+  &nbsp;
+  <a href="https://www.microsoft.com/">
+    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-lightgrey?style=for-the-badge&logo=windows" alt="Platform"/>
+  </a>
+</p>
 
 ---
 
